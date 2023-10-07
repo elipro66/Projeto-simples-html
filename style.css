@@ -5,11 +5,11 @@ margin: 0;
 padding: 0;
 }
 
-header li{
+header li {
    display: inline; 
 }
 
-.container{
-     width: 1366px;
-     margin: 0 auto;
+.container {
+   width: 1366px;
+   margin: 0 auto;
 }
