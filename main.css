@@ -13,3 +13,11 @@ header li {
     margin: 0 auto;
 }
  
+ .articles{
+    display: flex;
+
+}
+
+.articles article img {
+    height: 188px;
+}
